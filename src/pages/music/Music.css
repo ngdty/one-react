@@ -1,0 +1,107 @@
+.content-list {
+
+    background: #f6f6f6;
+    overflow: hidden;
+}
+.content-list .item-text {
+    background: #ffffff;
+    margin: 0 0 0.5em 0;
+    box-shadow: 0 0.0625em 0 0 rgba(230, 230, 230, 0.5);
+}
+.content-list .text-tag {
+    color: rgba(0, 0, 0, 0.6);
+    line-height: 1.85em;
+    font-size: 0.875em;
+    text-align: center;
+    padding: 0.7143em 0 1.0714em 0;
+}
+
+.content-list p {
+    margin: 0 20px;
+}
+.content-list .text-title {
+    font-size: 1.375em;
+    line-height: 1.4em;
+    max-height: 2.8em;
+    margin-top: 0;
+}
+.content-list p {
+    margin: 0 20px;
+}
+.ellipsis-row2 {
+    -webkit-line-clamp: 2;
+}
+.ui-page-theme-a a:visited {
+    text-decoration: none;
+    font-weight: normal;
+    color: inherit;
+}
+.ui-page-theme-a a {
+    text-decoration: none;
+    font-weight: normal;
+    color: inherit;
+}
+.content-list .text-author {
+    font-size: 1em;
+    line-height: 1.875em;
+    color: rgba(0, 0, 0, 0.6);
+    margin-top: 0.3125em;
+    padding: 0 2.5em 0 0;
+}
+.content-list p {
+    margin: 0 20px;
+}
+.ellipsis-row1, .ellipsis-row2 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+
+/* .content-list .text-cover-img img {
+    position: relative;
+    padding: 0 2.6em 0 2.6em;
+    border-radius: 50%;
+} */
+.content-list .text-content-short {
+    font-size: 0.875em;
+    line-height: 1.857em;
+    max-height: 3.714em;
+    color: rgba(0, 0, 0, 0.6);
+    margin-top: 0.7143em;
+}
+
+.content-list p {
+    margin: 0 20px;
+}
+.ellipsis-row2 {
+    -webkit-line-clamp: 2;
+}
+.content-list .date {
+    font-size: 0.625em;
+    line-height: 1.4em;
+    padding: 1.8em 0 2.5em 0;
+    color: #808080;
+    text-align: left;
+}
+
+.content-list p {
+    margin: 0 20px;
+}
+.content-list .text-music-author {
+    font-size: 0.625em;
+    line-height: 1.4em;
+    color: #808080;
+    margin-top: 1em;
+}
+.content-list p {
+    margin: 0 20px;
+}
+.ellipsis-row1, .ellipsis-row2 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}

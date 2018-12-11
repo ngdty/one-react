@@ -1,0 +1,145 @@
+.content-list {
+  
+  background: #f6f6f6;
+  overflow: hidden;
+}
+.content-list .item-text {
+  background: #ffffff;
+  margin: 0 0 0.5em 0;
+  box-shadow: 0 0.0625em 0 0 rgba(230, 230, 230, 0.5);
+}
+.item-text {
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+.item-picture {
+  background-color: #FFFFFF;
+  margin-bottom: 8px;
+  padding-bottom: 25px;
+}
+.content-list p {
+  margin: 0 20px;
+}
+.item-picture-date {
+  color: #000000;
+  opacity: 0.6;
+  font-size: 20px;
+  line-height: 22px;
+  text-align: center;
+  padding-top: 16px;
+  font-family: 'Courier New';
+}
+.issue-no, .content-list .issue-no {
+  margin-top: 4px;
+  margin-bottom: 0;
+}
+.content-list p {
+  margin: 0 20px;
+}
+.issue-no, .picture-author {
+  /* float: right; */
+  color: #808080;
+  font-size: 10px;
+  line-height: 14px;
+  text-align: center;
+}
+.ui-page-theme-a a:visited {
+  text-decoration: none;
+  font-weight: normal;
+  color: inherit;
+}
+.ui-mobile a img, .ui-mobile fieldset {
+  border-width: 0;
+}
+.item-picture-img {
+  width: 100%;
+  margin-top: 10px;
+}
+img {
+  margin: 15px 0;
+  height: auto;
+  width: 100%;
+}
+img {
+  max-width: 100%;
+}
+.content-list p {
+  margin: 0 20px;
+}
+.picture-author {
+  margin-top: 6px;
+}
+.issue-no, .picture-author {
+  /* float: right; */
+  color: #808080;
+  font-size: 10px;
+  line-height: 14px;
+  text-align: center;
+}
+.picture-content, .content-list .picture-content {
+  color: #000000;
+  opacity: 0.6;
+  font-size: 14px;
+  line-height: 26px;
+  margin-top: 20px;
+  margin-bottom: 18px;
+}
+.content-list p {
+  margin: 0 20px;
+}
+.content-list p {
+  margin: 0 20px;
+}
+.picture-author {
+  margin-top: 6px;
+}
+.issue-no, .picture-author {
+  /* float: right; */
+  color: #808080;
+  font-size: 10px;
+  line-height: 14px;
+  text-align: center;
+}
+.content-list-wrapper {
+  background: #f6f6f6;
+  overflow-y: scroll;
+  height: 615px;
+}
+.text-header text{
+  font-size: 15px;
+}
+
+
+#left-panel {
+  background: #FFFFFF;
+}
+.ui-panel-inner {
+  padding: .6em;
+}
+#left-panel a:link {
+  background: transparent;
+}
+
+.list-text {
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.6);
+  text-shadow: none;
+  font-weight: lighter;
+}
+
+.ui-panel {
+  width: 11em;
+  min-height: 100%;
+  max-height: none;
+  border: 1px solid #ccc;
+  position: absolute;
+  top: 0;
+  z-index: 1001;
+  /* display: none */
+}
+
+ul li{
+  line-height: 60px;
+
+ text-align: center
+}
